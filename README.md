@@ -73,7 +73,7 @@ install.packages("randomForest")
 library(randomForest)
 ```
 
-**Split dataset in two back: ** 
+**Split dataset in two back:** 
 ```
 train <- both[1:891,]
 test <- both[892:1309,]
